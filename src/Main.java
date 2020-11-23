@@ -9,12 +9,6 @@ public class Main {
         list.add("to");
         list.add("everyone");
 
-        ArrayList<Integer> lengths = new ArrayList<>();
-
-        for(String word : list){
-            lengths.add(word.length());
-        }
-        Collections.sort(lengths);
-        System.out.println(lengths);
+        System.out.println(list);
     }
 }
