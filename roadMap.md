@@ -1,4 +1,4 @@
-|    |                                       | without research | with research |    |                          | with research |
+|    |                 BACKEND                      | without research | with research |    |       FRONTEND                   | without research |
 | -- | ------------------------------------- | ---------------- | ------------- | -- | ------------------------ | ------------- |
 | 1  | User CRUD                             | 4h               | 8h            | 1  | Initial page             | 0.5h          |
 | 2  | Log manager                           | 6h               | 12h           | 2  | Authentication Manager   | 15h           |
@@ -21,3 +21,4 @@
 |    |                                       |                  |               | 19 | User Edit Page           | 12h           |
 |    |                                       |                  |               | 20 | Roles List Page          | 12h           |
 |    |                                       |                  |               | 21 | Role Edit Page           | 10h           |                                                                                                                     
+### Integration(for both back and front) - 30h(worst case)
